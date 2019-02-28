@@ -1,3 +1,5 @@
 # prak-jarkom
 
-Maulana Lutfi Sholihin -- L200170048 -- Kelas B
+Nama   : Maulana Lutfi Sholihin <br>
+NIM    : L200170048 <br>
+Kelas  : B <br>
